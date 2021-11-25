@@ -1,19 +1,12 @@
-# Security Policy
+# SECURITY POLICY
 
-## Supported Versions
+We deeply appreciate any effort to discover and disclose security vulnerabilities responsibly.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+If you would like to report a vulnerability, or have security concerns regarding code, software, etc,
+please email [bayudwiyansatria@gmail.com](mailto:bayudwiyansatria@gmail.com).
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.1.7   | :white_check_mark: |
-| < 1.6   | :x:                |
+In order for us to best respond to your report, please include any of the following:
 
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+* Steps to reproduce or proof-of-concept
+* Any relevant tools, including versions used
+* Tool output
